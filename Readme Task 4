@@ -1,1 +1,7 @@
-#Task 4
+In this task i use PowerBI tool which is powerful tool for making visualization of data insights, offers various charts and graphs also it provides one tap assistance means just tab for any particular data and the tool will change whole dash board according to that.
+Chart 1: Sum of Profit by Category.
+Chart 2: A pie chart showing Sum of quantity by category
+Chart 3: A stacked area chart showing total sales by category
+Chart 4: A scatter plot shows Sum of Sales, Sum of Profit and Sum of Quantity by Category
+Chart 5: A trend line shows Growth and decline over time
+Chart 6: A bar chart shows the Profit and Loss by Sub-Category.
